@@ -1,4 +1,4 @@
-Edad;Exp_publico;Exp_privado;Exp_prof;Estudios;Bachiller;Titulado;Maestria1;Maestria2;Cargo_partidario;Eleccion_Popular;Delito_doloso;Demandas;Ingresos;Avance
+Age;Exp_publico;Exp_privado;Professional_experience;Estudios;Bachiller;Titulado;Maestria1;Maestria2;Cargo_partidario;Eleccion_Popular;Delito_doloso;Demandas;Income;Public_spending_execution
 68;4;0;4;1;1;1;0;0;0;1;0;1;21600;80.81
 40;0;9;9;1;1;1;0;0;1;0;1;1;15000;83.17
 57;0;4;4;1;0;1;0;1;0;0;0;0;80376;92.23
